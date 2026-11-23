@@ -1,0 +1,57 @@
+PERSONAL MINI-TOOLKIT — WEEK 8 PROJECT
+
+1. TOOLS SELECTED
+
+Tool 1: Simple Calculator
+This tool allows users to perform addition, subtraction, multiplication and division.
+
+Tool 2: To-Do List
+This tool allows users to add, view and remove tasks using a list.
+
+Tool 3: Number Guessing Game
+This tool allows users to guess a secret number and receive hints until they get the correct answer.
+
+2. MENU TEXT
+
+Welcome to My Personal Mini-Toolkit!
+
+Please choose a tool:
+
+1. Simple Calculator
+2. To-Do List
+3. Number Guessing Game
+4. Quit
+
+Enter your choice:
+
+3. PYTHON CONCEPTS USED
+
+Simple Calculator:
+- Variables
+- User input
+- Conditionals (if, elif, else)
+- F-strings
+
+To-Do List:
+- Lists
+- Loops
+- List methods (append and remove)
+- Conditionals
+- F-strings
+
+Number Guessing Game:
+- Variables
+- Loops
+- Conditionals
+- User input
+- F-strings
+
+Main Menu:
+- While loop
+- If, elif and else
+- User input
+- Friendly output messages
+
+4. PROJECT GOAL
+
+The goal of this project is to build a simple menu-driven Python program that combines variables, input/output, conditionals, loops and lists. The program will allow users to access three useful tools and return to the main menu until they choose to quit.
